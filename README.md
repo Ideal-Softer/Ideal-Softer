@@ -6,7 +6,7 @@
 <h3>and at integrating</h3>
 <h4>✔AI to every application.</h4>
 <h3>Sometimes I enjoy to create</h3>
-<h4>✔2/3D games</h4>
+<h4>✔2/3D game</h4>
 <h3>for children's education.</h3>
 
 <h2>Interested, please enjoy to visit my <a href="#">website</a>.</h2>
