@@ -1,16 +1,14 @@
-## Hi there 👋
+##Greeting to you😊
+With over 10 years of experience I've experienced in developing:
+✔Full-stack web service
+✔Desktop/Mobile application
+✔Blockchain / SMART CONTRACT solution
+And
+✔integrating AI functionalities to every application
+Sometimes I enjoy to
+✔creating 2/3D games
+for children's education.
 
-<!--
-**Ideal-Softer/Ideal-Softer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested, please enjoy to visit my website
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kudos to you with your attention to me👍
