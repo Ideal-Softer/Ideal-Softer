@@ -1,14 +1,14 @@
 <h1>Greeting to you😊</h1>
-With over 10 years of experience I've experienced in developing:
-✔Full-stack web service
-✔Desktop/Mobile application
-✔Blockchain / SMART CONTRACT solution
-And
-✔integrating AI functionalities to every application
-Sometimes I enjoy to
-✔creating 2/3D games
-for children's education.
+<h2>With over 10 years of experience I've experienced in developing</h2>
+<h4>✔Full-stack web service</h4>
+<h4>✔Desktop/Mobile application</h4>
+<h4>✔Blockchain / SMART CONTRACT solution</h4>
+<h2>And</h2>
+<h4>✔integrating AI functionalities to every application</h4>
+<h2>Sometimes I enjoy to</h2>
+<h4>✔creating 2/3D games</h4>
+<h2>for children's education.</h2>
 
-Interested, please enjoy to visit my website
+<h3>Interested, please enjoy to visit my <a href="#">website</a></h3>
 
-Kudos to you with your attention to me👍
+<h2>Kudos to you with your attention to me👍</h2>
