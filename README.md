@@ -4,7 +4,7 @@
 <h4>✔Desktop/Mobile application</h4>
 <h4>✔Blockchain / SMART CONTRACT solution</h4>
 <h3>and at integrating</h3>
-<h4>✔AI to every application.</h4>
+<h4>✔AI to every type of application.</h4>
 <h3>Sometimes I enjoy to create</h3>
 <h4>✔2/3D game</h4>
 <h3>for children's education.</h3>
